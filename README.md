@@ -52,7 +52,3 @@ It visualizes how users spend time on different applications such as **Google**,
 - **Tableau Public / Tableau Desktop** – for data visualization and dashboard creation  
 - **Excel / CSV** – for dataset preparation  
 - **GitHub** – for project hosting and sharing
-
----
-
-## 📂 Project Structure
